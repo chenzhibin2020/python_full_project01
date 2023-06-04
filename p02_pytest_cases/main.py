@@ -7,7 +7,7 @@
 import os
 
 import pytest
-import pipreqs
+
 
 # 程序说明:
 # 程序结果: 是否报错：xx，是否拿到结果：xx
